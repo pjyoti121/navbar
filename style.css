@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: sans-serif;
+}
+ .navbar {
+
+    position: fixed;
+    width: 100%;
+
+}
+
+ .navbar ul{
+
+    list-style: none;
+    background: black;
+    overflow: hidden;
+    color:white;
+    padding:0;
+    text-align: center;
+    margin: 0;
+    transition: 1s;
+
+}
+
+.navbar ul li{
+    display:inline-block;
+    padding: 20px;
+}
+
+.navbar ul li a{
+
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+
+}
+
+.navbar-link:hover,
+.navbar-link:active {
+  color: green;
+}
+.nav:hover,
+.nav:active{
+    color:red;
+}
+
+.navb:hover,
+.navb:active{
+    color:orange;
+}
+
+.navbar-lin:hover,
+.navb:active{
+
+    color: blue;
+}
+
+.navbar-l:hover,
+.navb:active{
+    color: green;
+}
+
