@@ -65,4 +65,42 @@ body{
 .navb:active{
     color: green;
 }
+.vl {
+    border-left: 2px solid green;
+    height: 25px;
+    position: absolute;
+    left: 36.7%;
+    margin-left: -3px;
+   top:16px;
+  }
 
+  .fl{
+    border-left: 2px solid red;
+    height: 25px;
+    position: absolute;
+    left: 44.7%;
+    margin-left: -3px;
+   top:16px;
+
+  }
+
+  .kl{
+    border-left: 2px solid orange;
+    height: 25px;
+    position: absolute;
+    left: 52%;
+    margin-left: -3px;
+   top:16px;
+
+  }
+
+  .tl{
+     
+    border-left: 2px solid blue;
+    height: 25px;
+    position: absolute;
+    left: 59.1%;
+    margin-left: -3px;
+   top:16px;
+
+  }
